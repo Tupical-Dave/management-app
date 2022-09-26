@@ -1,0 +1,17 @@
+* ::ng-deep body,
+* ::ng-deep html {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  background: rgb(175, 169, 250);
+  background: linear-gradient(
+    0deg,
+    rgba(175, 169, 250, 1) 0%,
+    rgba(146, 135, 255, 1) 100%
+  );
+  height: 100vh;
+  padding: 0;
+}

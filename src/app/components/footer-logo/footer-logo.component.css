@@ -1,0 +1,15 @@
+img {
+  height: 60px;
+  margin: auto 10px;
+}
+
+.github-link {
+  display: flex;
+  align-items: center;
+  padding: 0px 10px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}

@@ -1,0 +1,11 @@
+.english-language {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.georgian-language {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}

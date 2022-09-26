@@ -1,0 +1,37 @@
+.welcome-text-wrapper {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.welcome-page-btn {
+  background-color: #8d85ffe0;
+  border-radius: 40%;
+}
+
+app-my-info {
+  margin-top: 40px;
+}
+
+h2 {
+  margin: 0px;
+  margin-top: 90px;
+  padding: 0;
+  font-size: 36px;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 56px;
+}
+
+p {
+  font-size: 16px;
+  margin: 40px 0px 40px 0px;
+}
+
+app-button {
+  font-size: 86px;
+}

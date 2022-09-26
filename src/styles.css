@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+.mat-slide-toggle.mat-checked .mat-slide-toggle-thumb {
+  background-color: #b4aeff;
+}
+html,
+body {
+  min-height: 100%;
+  height: auto;
+  margin: 0;
+}
